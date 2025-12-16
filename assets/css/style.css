@@ -8,8 +8,11 @@
 }
 
 :root{
-    --gradient1: #ffe53bd8;
-    --gradiente2: #ff2525da;
+    /* --gradient1: #ffe53bd8;
+    --gradiente2: #ff2525da; */
+
+    --gradient1: #5695c2d8;
+    --gradiente2: #972f9bda;
 }
 
 body{
